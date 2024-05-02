@@ -1,14 +1,14 @@
 # Olá, eu sou Lucas Belfort! 👋
 
 ## Sobre Mim
-- 🎓 Formando em Analise de Dados pela [Universidade de Sorocaba].
-- 💼 Atualmente trabalhando como estagiario na [Secretaria de Transito].
-- 🌱 Estou aprendendo mais sobre desenvolvimento web e Front End.
+- 🎓 Formando em Analise de Dados pela Universidade de Sorocaba.
+- 💼 Atualmente trabalhando como estagiario na Secretaria de Transito.
+- 🌱 Experiência sobre desenvolvimento web e Front End.
 
 ## Tecnologias que utilizo
 ![JavaScrip](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=node.js)
 
 ## Entre em Contato
 - 📫 Você pode me enviar um email em [lucasbelfort1@hotmail.com]
