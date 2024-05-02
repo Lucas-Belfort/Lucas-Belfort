@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, eu sou Lucas Belfort! 👋
 
-<!--
-**Lucas-Belfort/Lucas-Belfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🎓 Formando em Analise de Dados pela [Universidade de Sorocaba].
+- 💼 Atualmente trabalhando como estagiario na [Secretaria de Transito].
+- 🌱 Estou aprendendo mais sobre desenvolvimento web e Front End.
 
-Here are some ideas to get you started:
+## Tecnologias que utilizo
+![JavaScrip](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em Contato
+- 📫 Você pode me enviar um email em [lucasbelfort1@hotmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-belfort-darantes-medeiros-16b076269/)
+- 🐦 [Twitter](https://twitter.com/Billzerae)
