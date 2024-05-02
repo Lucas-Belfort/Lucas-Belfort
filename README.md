@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Billzerae)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fbillzerae%2F&psig=AOvVaw3PZF3BaytvPrV7ycihq5ZZ&ust=1714743015373000&source=images&cd=vfe&opi=89978449&ved=0CAcQrpoMahcKEwjA7Z3fie-FAxUAAAAAHQAAAAAQBA)
 - 📫 Você pode me enviar um email - lucasbelfort1@hotmail.com
-- Ou me chamar no WhatsApp +55 (15) 99871-4774
+- Ou me chamar no WhatsApp +55(15)99871-4774
 
 
 ## Tecnologias que utilizo
