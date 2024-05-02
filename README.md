@@ -5,12 +5,6 @@
 - 💼 Atualmente trabalhando como estagiario na Secretaria de Transito.
 - 🌱 Experiência sobre desenvolvimento web e Front End.
 
-
-## Estatisticas
-![Lucas-Belfort](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)
-
-
-
 ## Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-belfort-darantes-medeiros-16b076269/)
