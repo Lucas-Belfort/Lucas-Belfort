@@ -7,10 +7,11 @@
 
 
 ## Entre em Contato
-- Me chame no ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +55 (15) 99871-4774
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-belfort-darantes-medeiros-16b076269/)
+![Twitter](https://twitter.com/Billzerae)
 - 📫 Você pode me enviar um email em lucasbelfort1@hotmail.com
-- 💼 [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-belfort-darantes-medeiros-16b076269/)
-- 🐦 [Twitter](https://twitter.com/Billzerae)
+- Ou me chame no WhatsApp +55 (15) 99871-4774
 
 
 ## Tecnologias que utilizo
