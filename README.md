@@ -7,8 +7,11 @@
 
 ## Tecnologias que utilizo
 ![JavaScrip](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## Entre em Contato
